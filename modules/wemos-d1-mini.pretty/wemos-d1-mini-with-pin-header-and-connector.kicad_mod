@@ -44,27 +44,27 @@
   (pad 7 thru_hole circle (at 6.35 11.43) (size 1.8 1.8) (drill 1.016) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 8.89 -11.43) (size 1.8 1.8) (drill 1.016) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 8.89 11.43) (size 1.8 1.8) (drill 1.016) (layers *.Cu *.Mask))
-  (model ${KIPRJMOD}/3dshapes/wemos_d1_mini.3dshapes/d1_mini_shield.wrl
+  (model ${KIPRJMOD}/../libs/wemos-d1-mini-kicad/3dshapes/wemos_d1_mini.3dshapes/d1_mini_shield.wrl
     (at (xyz -0.7047244094488189 -0.5039370078740159 0.3307086614173229))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 180 90))
   )
-  (model ${KIPRJMOD}/3dshapes/wemos_d1_mini.3dshapes/SLW-108-01-G-S.wrl
+  (model ${KIPRJMOD}/../libs/wemos-d1-mini-kicad/3dshapes/wemos_d1_mini.3dshapes/SLW-108-01-G-S.wrl
     (at (xyz 0 -0.4488188976377953 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz -90 0 0))
   )
-  (model ${KIPRJMOD}/3dshapes/wemos_d1_mini.3dshapes/SLW-108-01-G-S.wrl
+  (model ${KIPRJMOD}/../libs/wemos-d1-mini-kicad/3dshapes/wemos_d1_mini.3dshapes/SLW-108-01-G-S.wrl
     (at (xyz 0 0.4488188976377953 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz -90 0 0))
   )
-  (model ${KIPRJMOD}/3dshapes/wemos_d1_mini.3dshapes/TSW-108-05-G-S.wrl
+  (model ${KIPRJMOD}/../libs/wemos-d1-mini-kicad/3dshapes/wemos_d1_mini.3dshapes/TSW-108-05-G-S.wrl
     (at (xyz 0 -0.4488188976377953 0.2874015748031496))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 90 0 0))
   )
-  (model ${KIPRJMOD}/3dshapes/wemos_d1_mini.3dshapes/TSW-108-05-G-S.wrl
+  (model ${KIPRJMOD}/../libs/wemos-d1-mini-kicad/3dshapes/wemos_d1_mini.3dshapes/TSW-108-05-G-S.wrl
     (at (xyz 0 0.4488188976377953 0.2874015748031496))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 90 0 0))
